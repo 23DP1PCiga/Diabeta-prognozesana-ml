@@ -1,0 +1,11 @@
+Datu kopas nosaukums:
+Early Stage Diabetes Risk Prediction Dataset
+
+Datu kopas saite:
+https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset
+
+Lejupielādes datums: 
+20.11.2026.
+
+License:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
